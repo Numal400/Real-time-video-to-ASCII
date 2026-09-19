@@ -79,7 +79,7 @@ run.bat
 Higher resolution:
 
 ```powershell
-python main.py "assets\video.mp4" --width 140
+python main.py "assets\video.mp4" --width 160
 ```
 
 Lower resolution / faster:
